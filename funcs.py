@@ -4,9 +4,7 @@ def two_numbers(a, b):
     return
 
 
-a = 6
-b = 2
-two_numbers(a, b)
+
 
 
 
@@ -16,5 +14,5 @@ def two_numbers1(a, b):
     return
 
 
-two_numbers1(6, 2)
+
 
